@@ -1,0 +1,34 @@
+[2026-06-06 10:41:28.155] [WARN ] [Config] [SECURITY] Dashboard API key is insecure. Set a strong value via DASHBOARD_API_KEY env var or in config.json.
+[2026-06-06 10:41:28.159] [OK   ] [Config] Validation complete — 1 warning(s).
+[2026-06-06 10:41:28.777] [INFO ] [Maintenance] Running startup self-checks...
+[2026-06-06 10:41:28.778] [OK   ] [Maintenance] Self-checks complete.
+[2026-06-06 10:41:28.779] [INFO ] [Health] Watchdog started — checks every 30s
+[2026-06-06 10:41:28.783] [OK   ] [Session] Loaded 6 cookies from primary.
+[2026-06-06 10:41:29.136] [OK   ] [Commands] 35 command(s) loaded.
+[2026-06-06 10:41:29.136] [INFO ] [Bot] Starting ivar v-3 v3.0.0 (attempt 1)...
+[2026-06-06 10:41:29.141] [OK   ] [Dashboard] API + Dashboard listening on port 3001
+[2026-06-06 10:41:30.474] [ERROR] [Bot] Login failed: Error retrieving userID. This can be caused by many factors, including being blocked by Facebook for logging in from an unknown location. Try logging in with a browser to verify.
+[2026-06-06 10:41:30.475] [INFO ] [Bot] Retrying in 45s (attempt 1)...
+[2026-06-06 10:42:15.481] [OK   ] [Session] Loaded 6 cookies from primary.
+[2026-06-06 10:42:15.484] [OK   ] [Commands] 35 command(s) loaded.
+[2026-06-06 10:42:15.484] [INFO ] [Bot] Starting ivar v-3 v3.0.0 (attempt 2)...
+[2026-06-06 10:42:16.258] [ERROR] [Bot] Login failed: Error retrieving userID. This can be caused by many factors, including being blocked by Facebook for logging in from an unknown location. Try logging in with a browser to verify.
+[2026-06-06 10:42:16.258] [INFO ] [Bot] Retrying in 68s (attempt 2)...
+[2026-06-06 10:42:31.491] [INFO ] [HumanSim] Stopped.
+[2026-06-06 10:42:31.627] [WARN ] [Config] [SECURITY] Dashboard API key is insecure. Set a strong value via DASHBOARD_API_KEY env var or in config.json.
+[2026-06-06 10:42:31.631] [OK   ] [Config] Validation complete — 1 warning(s).
+[2026-06-06 10:42:31.801] [OK   ] [State] Restored: 0 locked, 0 muted, 0 groups.
+[2026-06-06 10:42:31.844] [INFO ] [Maintenance] Running startup self-checks...
+[2026-06-06 10:42:31.845] [OK   ] [Maintenance] Self-checks complete.
+[2026-06-06 10:42:31.846] [INFO ] [Health] Watchdog started — checks every 30s
+[2026-06-06 10:42:31.851] [OK   ] [Session] Loaded 6 cookies from primary.
+[2026-06-06 10:42:31.864] [OK   ] [Commands] 35 command(s) loaded.
+[2026-06-06 10:42:31.865] [INFO ] [Bot] Starting ivar v-3 v3.0.0 (attempt 1)...
+[2026-06-06 10:42:31.871] [OK   ] [Dashboard] API + Dashboard listening on port 3001
+[2026-06-06 10:42:32.686] [ERROR] [Bot] Login failed: Error retrieving userID. This can be caused by many factors, including being blocked by Facebook for logging in from an unknown location. Try logging in with a browser to verify.
+[2026-06-06 10:42:32.686] [INFO ] [Bot] Retrying in 45s (attempt 1)...
+[2026-06-06 10:43:17.692] [OK   ] [Session] Loaded 6 cookies from primary.
+[2026-06-06 10:43:17.696] [OK   ] [Commands] 35 command(s) loaded.
+[2026-06-06 10:43:17.696] [INFO ] [Bot] Starting ivar v-3 v3.0.0 (attempt 2)...
+[2026-06-06 10:43:18.434] [ERROR] [Bot] Login failed: Error retrieving userID. This can be caused by many factors, including being blocked by Facebook for logging in from an unknown location. Try logging in with a browser to verify.
+[2026-06-06 10:43:18.434] [INFO ] [Bot] Retrying in 68s (attempt 2)...
